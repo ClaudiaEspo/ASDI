@@ -1,0 +1,16 @@
+# Vivado specific files
+*.jou
+*.log
+*.str
+*.bin
+*.rpt
+*.xml
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.xil/
+
+# Output directories
+output/
+build/
